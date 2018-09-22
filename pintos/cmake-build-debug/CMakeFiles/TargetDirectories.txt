@@ -1,0 +1,3 @@
+/home/bassent/pintos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bassent/pintos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bassent/pintos/cmake-build-debug/CMakeFiles/pintos.dir
